@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 // Function to add two numbers
-int add(int x, int y) {
-    return x + y;
+int add(int c, int d) {
+    int result = c + d;
+    return result;
 }
 
 int main() {
